@@ -13,7 +13,10 @@
  Before Use This, Please Make Sure That The 
  Below Has Been Done And Tool "curl" Has Been 
  Installed.(Installation: #apt-get install curl)
+ 
+```bash
+ $ cp logbuptgw.sh /usr/bin/logbuptgw
+ $ chmod +x /usr/bin/logbuptgw
+```
 
- #cp logbuptgw.sh /usr/bin/logbuptgw
- #chmod +x /usr/bin/logbuptgw
 -----------------------------------------
